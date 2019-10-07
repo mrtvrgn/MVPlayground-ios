@@ -1,0 +1,6 @@
+framework module Pods_MVPlayground_MVPlaygroundUITests {
+  umbrella header "Pods-MVPlayground-MVPlaygroundUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
